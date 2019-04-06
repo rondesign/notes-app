@@ -1,14 +1,1 @@
-[
-  {
-    "title": "Shopping list",
-    "body": "This is my list"
-  },
-  {
-    "title": "My second list",
-    "body": "This is my second list"
-  },
-  {
-    "title": "A Third Note",
-    "body": "And this is the body."
-  }
-]
+[{"title":"My second list","body":"This is my second list"},{"title":"A Third Note","body":"And this is the body."}]
